@@ -1,0 +1,146 @@
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:33:52 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:34:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:37:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:37:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:38:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:39:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:39:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:40:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:00 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:43:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:43:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:43:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:44:00 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 443
+[07-Sep-2016 17:45:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 443

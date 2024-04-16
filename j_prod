@@ -1,0 +1,13 @@
+pipeline{
+   agent any
+   stages{
+      stage('login server'){
+         steps{
+            sshagent(credentials:['RDLPK-PROD']){
+               sh 'ssh  -o StrictHostKeyChecking=no  ubuntu@18.142.214.169 /home/jenkins/build_rdlpk.sh'
+          }
+        echo "success Build"
+         }
+       }
+   }
+}

@@ -1,0 +1,3 @@
+[13-Nov-2017 10:48:31 UTC] PHP Notice:  Undefined index: sec in /home2/rdlpk/public_html/email/mail.php on line 69
+[13-Nov-2017 10:49:40 UTC] PHP Notice:  Undefined index: sec in /home2/rdlpk/public_html/email/mail.php on line 69
+[13-Nov-2017 10:49:40 UTC] PHP Notice:  Undefined offset: 2 in /home2/rdlpk/public_html/email/mail.php on line 125

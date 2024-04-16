@@ -1,0 +1,630 @@
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[07-Sep-2016 15:55:32 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 15:59:57 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:01:49 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:05:00 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:05:30 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:07:46 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:10:42 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:11:45 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:06 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:12 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:12:14 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:14:31 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:19:00 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:21:14 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:21:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:24:55 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:26:24 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:27:09 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:23 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:39:31 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:47:07 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:53:17 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:53:21 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:55:40 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:55:44 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:56:55 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 16:57:56 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:08:33 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:09:37 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:09:39 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:15:28 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:15:49 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:16:23 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:21:30 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:21:39 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/ajaxRequest.php on line 7
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 9
+[07-Sep-2016 17:22:11 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/ajaxRequest.php on line 13
+[07-Sep-2016 17:33:52 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:34:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:37:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:37:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:38:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:39:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:39:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 441
+[07-Sep-2016 17:40:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:00 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Plot' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 442
+[07-Sep-2016 17:43:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:43:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:43:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 444
+[07-Sep-2016 17:44:00 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 443
+[07-Sep-2016 17:45:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'pid' (T_STRING), expecting ',' or ';' in /home/rdlpk/public_html/gis/Townp.php on line 443
+[24-Oct-2016 15:02:51 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:02:51 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:02:51 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:03:20 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:03:20 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:03:20 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:05 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:05 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:05 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:07 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:07 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:07 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:20 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:20 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:20 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:21 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:21 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:21 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:24 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:24 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:24 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:25 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:26 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/index.php on line 2
+[24-Oct-2016 15:04:27 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/index.php on line 3
+[09-Nov-2016 12:33:31 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image.php on line 2
+[09-Nov-2016 12:33:31 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image.php on line 2
+[09-Nov-2016 12:33:31 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image.php on line 3
+[09-Nov-2016 12:36:12 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[09-Nov-2016 12:36:12 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[09-Nov-2016 12:36:12 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[09-Nov-2016 12:36:15 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[09-Nov-2016 12:36:15 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[09-Nov-2016 12:36:15 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[14-Nov-2016 15:10:11 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[14-Nov-2016 15:10:11 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[14-Nov-2016 15:10:11 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 286
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 288
+[14-Nov-2016 15:10:18 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 289
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:12 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:13 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:13 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:13 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:14 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:16 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:18 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:19 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:19 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:19 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:21 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:23 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:23 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:23 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:24 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:24 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:24 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:33 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:34 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:35 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[14-Nov-2016 15:12:42 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:42 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[14-Nov-2016 15:12:42 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[18-Nov-2016 10:42:26 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[18-Nov-2016 10:42:26 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[18-Nov-2016 10:42:26 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[18-Nov-2016 11:09:19 Asia/Karachi] PHP Fatal error:  Function name must be a string in /home/rdlpk/public_html/gis/updatere.php on line 12
+[18-Nov-2016 11:11:09 Asia/Karachi] PHP Fatal error:  Function name must be a string in /home/rdlpk/public_html/gis/updatere.php on line 12
+[18-Nov-2016 14:31:09 Asia/Karachi] PHP Fatal error:  Function name must be a string in /home/rdlpk/public_html/gis/updatere.php on line 12
+[18-Nov-2016 14:31:18 Asia/Karachi] PHP Fatal error:  Function name must be a string in /home/rdlpk/public_html/gis/updatere.php on line 12
+[26-Nov-2016 16:46:30 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:46:30 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:46:30 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:46:31 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:46:31 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:46:31 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:46:36 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 317
+[26-Nov-2016 16:46:36 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 319
+[26-Nov-2016 16:46:36 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 320
+[26-Nov-2016 16:46:40 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 317
+[26-Nov-2016 16:46:40 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 319
+[26-Nov-2016 16:46:40 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 320
+[26-Nov-2016 16:46:44 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 317
+[26-Nov-2016 16:46:44 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 319
+[26-Nov-2016 16:46:44 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 320
+[26-Nov-2016 16:46:45 Asia/Karachi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rdlpk/public_html/gis/sprt.php on line 317
+[26-Nov-2016 16:46:45 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rdlpk/public_html/gis/sprt.php on line 319
+[26-Nov-2016 16:46:45 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdlpk/public_html/gis/sprt.php on line 320
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:31 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:32 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:40 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:41 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/image1.php on line 2
+[26-Nov-2016 16:47:42 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/image1.php on line 3
+[17-Dec-2016 17:46:00 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:00 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:00 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[17-Dec-2016 17:46:17 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:17 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:17 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[17-Dec-2016 17:46:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:46:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[17-Dec-2016 17:48:13 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:48:13 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:48:13 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[17-Dec-2016 17:49:22 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:49:22 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:49:22 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[17-Dec-2016 17:50:06 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:50:06 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/update.php on line 2
+[17-Dec-2016 17:50:06 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/update.php on line 37
+[19-Dec-2016 12:10:02 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:10:02 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:10:02 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[19-Dec-2016 12:14:58 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:14:58 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:14:58 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[19-Dec-2016 12:15:09 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:15:09 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:15:09 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[19-Dec-2016 12:33:50 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:33:50 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:33:50 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[19-Dec-2016 12:36:21 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:36:21 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:36:21 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3
+[19-Dec-2016 12:40:37 Asia/Karachi] PHP Warning:  include(/../new.php): failed to open stream: No such file or directory in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:40:37 Asia/Karachi] PHP Warning:  include(): Failed opening '/../new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rdlpk/public_html/gis/updatere.php on line 2
+[19-Dec-2016 12:40:37 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/gis/updatere.php on line 3

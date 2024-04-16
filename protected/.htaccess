@@ -1,0 +1,5 @@
+deny from all
+AuthType Basic
+AuthName "protected"
+AuthUserFile "/home/rdlpk/.htpasswds/public_html/protected/passwd"
+require valid-user

@@ -1,0 +1,1 @@
+ALTER TABLE `buildings_fdhl` Add old_id int(11) AFTER id;

@@ -1,0 +1,2 @@
+[02-Feb-2015 14:24:15 Asia/Karachi] PHP Warning:  file_put_contents(images/imagetransfer/.jpg): failed to open stream: No such file or directory in /home/rdlpk/public_html/image_capture/handleimage.php on line 6
+[02-Feb-2015 14:24:15 Asia/Karachi] PHP Fatal error:  Class 'Yii' not found in /home/rdlpk/public_html/image_capture/handleimage.php on line 7

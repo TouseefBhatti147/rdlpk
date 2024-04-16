@@ -1,0 +1,1 @@
+<?php header("Location: www/demo.php"); ?>

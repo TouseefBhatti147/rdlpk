@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {margin:0px; padding:0px;font-family: "Source Sans Pro", sans-serif ;}
+.container-fluid{ padding-left:5px; padding-right:5px;}
+#topbar { background:url(images/topbar-bg.png); font-size:13px; color:#ffffff; font-family:arial; padding:14px 0 5px;}
+
+#topbar .contact1 ul>:nth-child(1) { background:url(images/top-phone.png) no-repeat; padding-left:42px;margin-left:5px; }
+#topbar .contact1 ul>:nth-child(2){ background: url(images/top-mail.png) no-repeat;  padding-left:42px; margin-left:5px;}
+#topbar .topleft a { color:#ffffff;}
+#topbar .topleft li:first-child { background:#006098;}
+#headbg { background:url(images/header-bg.png) repeat-x; padding:10px 0 4px;}
+#follow1 { background:url(images/follow-bg.jpg) repeat-x center;}
+#follow1 span { font-weight:normal; font-size:15px; font-family:arial; background:url(images/spanbg.jpg) center repeat-x;
+padding:0 8px 5px 6px;}
+#flinks {margin:0px;}
+
+#sitelocation h5 {
+    background: none repeat scroll 0 0 rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 16px 8px;
+}
+	
+.navbar {margin:0px; border:1px solid #cccaca;}
+.nav-bar01 ul {
+    padding: 10px 0px !important; margin:0px;
+}
+.srch-1 { border:1px solid #52aee5; -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;}
+#myCarousel { z-index:1000;}
+.nav-srch {border-radius:20px; padding:4px 5px; margin-top:10px;border:1px solid #fff; margin-right:3%; 
+background:url(images/s-bg.png) no-repeat 108px 5px;;
+ -moz-box-shadow: inset 0 3px 8px rgba(123,165,87,.4);
+   -webkit-box-shadow: inset 0 3px 8px rgba(123,165,87,.4);
+   box-shadow: inset 0 3px 8px rgba(123,165,87,.24);
+}
+.m-t { margin-top:17px; position:relative; text-decoration:underline;}
+.c-srch {-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px; border:1px solid #52aee5; width:90%; padding:6px; 0px; margin-bottom:10px;}
+.blue{ color:#038dc6;}
+h3 {color:#038dc6;}
+#section1 .detail{ padding-top:6px;}
+#section1 .detail p {font-size:13px;}
+p { font-size:12px; font-family:arial;}
+#section1 .col-lg-3{ padding-left:0px;}
+#section2 #box h3 { margin-bottom:20px;}
+#section2 #box p {width:; margin-left:}
+#m-l0 { margin-left:0px; margin-bottom:25px;}
+.dates { background:#7ba5de; color:#fff; padding:5px;margin-top:0px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;}
+
+#section4 { margin-top:50px; padding:25px;}
+#section5 { padding:35px 20px; border-top:1px solid #b8b8b8; background:url(images/bg-1.png);}
+#newsletter { background:#fff; padding:30px 25px;}
+#news-top { border-bottom:1px dashed #e0e0e0;}
+#news-bottom { margin-top:20px; bottom:20px;}
+#news-bottom input { border:1px solid #e0e0e0; width:340px; height:46px;margin-right:10px;
+	-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;}
+#section5 h3 {}
+#footer-sec { background:#000; padding:20px 10px;}
+.f-list a { font-size:16px; font-family:16px; color:#fff;}
+.f-list { padding-left:0px; list-style:none;}
+#footer-sec h3{ font-family:arial; color:#fff; font-weight:bold;  }
+
+#footer-sec input, textarea {
+    padding: 2px 5px;
+    width: 90%;
+	 margin-bottom: 10px;
+}
+#footer-sec { font-size:16px; font-family:arial; color:#fff;}
+.copyright a { background:url(images/cg-icon.png) no-repeat;padding:5px; padding-left:25px; font-size:12px;}
+.copyright { margin-top:30px;font-size:12px; border-top:1px solid #333; border-bottom:1px solid #333;padding:20px 0px;}
+
+#carouselh a { font-size:12px; marign-top:20px;}
+.b-l {border-left: 2px solid #E1E1E1;}
+nav ul li ul { z-index:200000000;}
+.fixed11 {position:fixed;width:79%;
+    top:0;}
+	
+	.fixed11 ul li { padding:7px 0px;}
+	
+	.span5.abt-img {
+    margin-top: 66px;
+}
+.a12 {font-size:12px;}
+p ,ul {font-size:12px;}
+#backgrond ul{padding-left:0px !important;}
+
+.my-content a {font-size:12px; position:relative; margin-top:5px !important; margin-bottom:5px !important;}
+
+.br-width { width:100% !important;}
+.testim { padding-left:10px; color:#666;}
+.sidebar h5 { text-align:center; font-weight:bold;}
+.dash-top-hd h4 { color:#428BCA; }
+.dash-top-hd {background:#000;}
+
+.dash-top-menu { padding:5px; background:#E2E2E2;padding: 10px 5px 0;}
+.dash-cntnt {
+    font-size: 13px;
+}

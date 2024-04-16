@@ -1,0 +1,79 @@
+[28-Mar-2018 10:47:32 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php:38
+Stack trace:
+#0 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(546): Inline_Positioner->position()
+#1 /home/rdlpk/public_html/dompdf/include/text_frame_reflower.cls.php(331): Frame_Decorator->position()
+#2 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Text_Frame_Reflower->reflow(NULL)
+#3 /home/rdlpk/public_html/dompdf/include/page_frame_reflower.cls.php(138): Frame_Decorator->reflow()
+#4 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Page_Frame_Reflower->reflow(NULL)
+#5 /home/rdlpk/public_html/dompdf/include/dompdf.cls.php(817): Frame_Decorator->reflow()
+#6 /home/rdlpk/public_html/dompdf/dompdf.php(255): DOMPDF->render()
+#7 {main}
+  thrown in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php on line 38
+[28-Mar-2018 10:47:37 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php:38
+Stack trace:
+#0 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(546): Inline_Positioner->position()
+#1 /home/rdlpk/public_html/dompdf/include/text_frame_reflower.cls.php(331): Frame_Decorator->position()
+#2 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Text_Frame_Reflower->reflow(NULL)
+#3 /home/rdlpk/public_html/dompdf/include/page_frame_reflower.cls.php(138): Frame_Decorator->reflow()
+#4 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Page_Frame_Reflower->reflow(NULL)
+#5 /home/rdlpk/public_html/dompdf/include/dompdf.cls.php(817): Frame_Decorator->reflow()
+#6 /home/rdlpk/public_html/dompdf/dompdf.php(255): DOMPDF->render()
+#7 {main}
+  thrown in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php on line 38
+[28-Mar-2018 10:47:37 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php:38
+Stack trace:
+#0 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(546): Inline_Positioner->position()
+#1 /home/rdlpk/public_html/dompdf/include/text_frame_reflower.cls.php(331): Frame_Decorator->position()
+#2 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Text_Frame_Reflower->reflow(NULL)
+#3 /home/rdlpk/public_html/dompdf/include/page_frame_reflower.cls.php(138): Frame_Decorator->reflow()
+#4 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Page_Frame_Reflower->reflow(NULL)
+#5 /home/rdlpk/public_html/dompdf/include/dompdf.cls.php(817): Frame_Decorator->reflow()
+#6 /home/rdlpk/public_html/dompdf/dompdf.php(255): DOMPDF->render()
+#7 {main}
+  thrown in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php on line 38
+[28-Mar-2018 10:47:54 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php:38
+Stack trace:
+#0 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(546): Inline_Positioner->position()
+#1 /home/rdlpk/public_html/dompdf/include/text_frame_reflower.cls.php(331): Frame_Decorator->position()
+#2 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Text_Frame_Reflower->reflow(NULL)
+#3 /home/rdlpk/public_html/dompdf/include/page_frame_reflower.cls.php(138): Frame_Decorator->reflow()
+#4 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Page_Frame_Reflower->reflow(NULL)
+#5 /home/rdlpk/public_html/dompdf/include/dompdf.cls.php(817): Frame_Decorator->reflow()
+#6 /home/rdlpk/public_html/dompdf/dompdf.php(255): DOMPDF->render()
+#7 {main}
+  thrown in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php on line 38
+[28-Mar-2018 10:48:27 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'No block-level parent found.  Not good.' in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php:38
+Stack trace:
+#0 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(546): Inline_Positioner->position()
+#1 /home/rdlpk/public_html/dompdf/include/text_frame_reflower.cls.php(331): Frame_Decorator->position()
+#2 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Text_Frame_Reflower->reflow(NULL)
+#3 /home/rdlpk/public_html/dompdf/include/page_frame_reflower.cls.php(138): Frame_Decorator->reflow()
+#4 /home/rdlpk/public_html/dompdf/include/frame_decorator.cls.php(556): Page_Frame_Reflower->reflow(NULL)
+#5 /home/rdlpk/public_html/dompdf/include/dompdf.cls.php(817): Frame_Decorator->reflow()
+#6 /home/rdlpk/public_html/dompdf/dompdf.php(255): DOMPDF->render()
+#7 {main}
+  thrown in /home/rdlpk/public_html/dompdf/include/inline_positioner.cls.php on line 38
+[10-Nov-2019 13:39:12 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227
+[10-Nov-2019 13:39:14 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227
+[10-Nov-2019 13:39:16 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227
+[10-Nov-2019 13:39:17 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227
+[10-Nov-2019 13:39:19 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227
+[10-Nov-2019 13:39:21 UTC] PHP Fatal error:  Uncaught exception 'DOMPDF_Exception' with message 'Permission denied on .' in /home/rdlpk/public_html/dompdf/dompdf.php:227
+Stack trace:
+#0 {main}
+  thrown in /home/rdlpk/public_html/dompdf/dompdf.php on line 227

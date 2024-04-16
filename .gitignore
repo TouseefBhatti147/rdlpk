@@ -1,0 +1,10 @@
+/.idea/*
+/idea
+/con_db/db.php
+/upload_pic/*
+/protected/runtime/*
+/protected/runtime
+/assets
+/assets/*
+*.log
+/nbproject/private/
